@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+button {
+  height: 70px;
+  width: 70px;
+  font-size: 35px;
+  background-color: #333333;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.operator-button {
+  background-color: #FEA00A;
+}
+
+.clear-button {
+  font-size: 20px;
+}
+
+.result {
+  font-size: 50px;
+  margin: 0px 0px 10px 5px;
+
+}

@@ -1,0 +1,3 @@
+# Calculator Application with JavaScript
+<p>I have developed a calculator application with complete functionality using JavaScript. For its structure and styling, I utilized HTML and CSS. Although this project is relatively small in scope, it serves as an excellent starting point for understanding logic development and gaining insights into the process of building actual projects. Through this project, I have learned about event handling, the eval method, localStorage, and various core concepts of JavaScript.
+</p>
